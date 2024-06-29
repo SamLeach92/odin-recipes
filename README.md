@@ -1,1 +1,1 @@
-# odin-recipes
+A quick website creation project to display knowledge of basic HTML. Including the boilerplate and correctly implementing lists, images and links. Also displaying how to correctly use git/Github.
