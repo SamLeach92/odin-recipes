@@ -4,3 +4,14 @@
     box-sizing: border-box;
     background-color: rgb(253, 224, 193);
 }
+
+.content {
+    text-align: center;
+    color: #C4B3C6;
+}
+
+li {
+    display: inline-block;
+    margin: auto 20px;
+    width: 200px;
+}
