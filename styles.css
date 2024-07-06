@@ -5,6 +5,10 @@
     background-color: rgb(253, 224, 193);
 }
 
+h1 {
+    margin-bottom: 20px;
+}
+
 .content {
     text-align: center;
     color: #505050;
